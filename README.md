@@ -13,7 +13,7 @@ The glove embeddings were computed based on the pretrained glove embeddings [2] 
 The distance embeddings were computed by passing the relative distance of each word in a 10-word window around the aspect into a keras embedding layer.  
 The relative distances were calculated as shown in the following figure:   
 ![alt text](https://raw.githubusercontent.com/kashyap9395/Aspect_Based_Sentiment_Analysis/master/dist_img.png)  
-Fig. from Soufian Jebbara et. al. [1]
+Fig. from Soufian Jebbara et. al. [1]  
 Here ‘stays fresh’ is the aspect.
 
 Each glove embedding (of 50 dimensions) of a word in the 10-word window and the distance embedding (of 50 dimensions) of the same word were added to form a sort-of combined embedding for that word.   
