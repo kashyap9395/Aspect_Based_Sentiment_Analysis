@@ -22,6 +22,6 @@ This matrix was then passed to a Recurrent Neural Network model consisting of a 
 This approach gave us an accuracy of 89% on Data 1 and 91% on Data2.    
 
 References: 
-[1] Soufian Jebbara and Philipp Cimiano, Aspect-Based Relational Sentiment Analysis Using a Stacked Neural Network Architecture
+[1] Soufian Jebbara and Philipp Cimiano, Aspect-Based Relational Sentiment Analysis Using a Stacked Neural Network Architecture  
 [2] Jeffrey Pennington, Richard Socher, and Christopher D. Manning. 2014. GloVe: Global Vectors for Word Representation.
 
