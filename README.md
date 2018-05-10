@@ -12,7 +12,7 @@ The text was converted into 2 sets of features:
 The glove embeddings were computed based on the pretrained glove embeddings [2] on Twitter dataset. 
 The distance embeddings were computed by passing the relative distance of each word in a 10-word window around the aspect into a keras embedding layer.  
 The relative distances were calculated as shown in the following figure:   
-![alt text](https://raw.githubusercontent.com/username/projectname/master/dist_img.png)  
+![alt text](https://raw.githubusercontent.com/kashyap9395/Aspect_Based_Sentiment_Analysis/master/dist_img.png)  
 Fig. from Soufian Jebbara et. al. [1]
 Here ‘stays fresh’ is the aspect.
 
